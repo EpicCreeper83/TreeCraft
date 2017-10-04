@@ -33,7 +33,7 @@ Staff will choose the serverity of your punishment
 15. TempMute 5 minutes
 16. Kick
 
-To Apeal from a mute or ban visit. https://discord.gg/PTF8DDR
+To Appeal from a mute or ban visit. https://discord.gg/PTF8DDR
 
 ## Applying
 
